@@ -21,3 +21,5 @@ There are two folders:
 This folder contains information and displaying features that are extracted as well as python script to extract features. 
 <h3>models</h3>
 This folder contains part that runs network training and evaluation of results. 
+
+
