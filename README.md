@@ -1,7 +1,7 @@
 <h1> Semantic segmentation added features experiment </h1>
 <h2>Intro</h2>
 As I work for Valeo, we did experiment according: https://woodscape.valeo.com/woodscape/download </br>
-I have created multiple networks and tested performance of them. As you could see here> https://github.com/filipberanek/phd_lectures_statistics </br>
+I have created multiple networks and tested performance of them. As you could see here: https://github.com/filipberanek/phd_lectures_statistics </br>
 In this repository I would like to test, if there will be impact by adding features like:
 <ul>
   <li>Canny edges</li>
