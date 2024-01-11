@@ -21,5 +21,9 @@ There are two folders:
 This folder contains information and displaying features that are extracted as well as python script to extract features. 
 <h3>models</h3>
 This folder contains part that runs network training and evaluation of results. 
-
-
+<h3>notebooks with results</h3>
+There are two notebobs in the root. 
+<ul>
+  <li>"networks_comparer" is there to train networks and run inferences, which gives you the results.</li>
+  <li>"networks_result" is there to show results of test inference.</li>
+</ul>
